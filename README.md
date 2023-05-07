@@ -1,4 +1,3 @@
-<a href="https://twitter.com/asdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asdf" height="30" width="40" /></a>
 <h1 align="center">Hi 👋, I'm Md. Amirul Islam</h1>
 <h3 align="center">IT Specialist</h3>
 
