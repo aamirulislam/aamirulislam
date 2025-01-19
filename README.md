@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on ****LEDP****
 
-- 👨‍💻 All of my projects are available at **[https://amirul-dev.vercel.app/](https://amirul-dev.vercel.app/)**
+- 👨‍💻 All my projects are available at **[https://amirul-dev.vercel.app/](https://amirul-dev.vercel.app/)**
 
 - 💬 Ask me about **Java, Springboot, Angular etc**
 
