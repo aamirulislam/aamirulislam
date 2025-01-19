@@ -32,7 +32,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aamirulislam&show_icons=true&locale=en" alt="aamirulislam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aamirulislam&" alt="aamirulislam" /></p>
-## Watch snake eating my github contributions 
+
+## Snake eating my github contributions.🐍
  
 ![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
 
