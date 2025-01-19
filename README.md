@@ -33,7 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aamirulislam&" alt="aamirulislam" /></p>
 
-## Snake eating my github contributions.🐍
+## Snake eating my github contributions🐍
  
 ![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
 
